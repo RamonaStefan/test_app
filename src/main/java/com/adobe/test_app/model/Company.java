@@ -29,6 +29,7 @@ public final class Company {
     private long numberOfEmployees;
 
     public Company() {
+        //comment
     }
 
     public Company(String name, long numberOfEmployees) {
